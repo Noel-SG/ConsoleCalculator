@@ -1,0 +1,7 @@
+C:\Users\Noel\Documents\Programming\C#\Various projects\ConsoleCalculator\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+C:\Users\Noel\Documents\Programming\C#\Various projects\ConsoleCalculator\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+C:\Users\Noel\Documents\Programming\C#\Various projects\ConsoleCalculator\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+C:\Users\Noel\Documents\Programming\C#\Various projects\ConsoleCalculator\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csprojAssemblyReference.cache
+C:\Users\Noel\Documents\Programming\C#\Various projects\ConsoleCalculator\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Noel\Documents\Programming\C#\Various projects\ConsoleCalculator\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+C:\Users\Noel\Documents\Programming\C#\Various projects\ConsoleCalculator\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb
